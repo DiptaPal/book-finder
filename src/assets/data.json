@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "image": "https://i.ibb.co/HrwKqnh/book1.jpg",
+        "bookTitle": "Iron Flame",
+        "author": "Rebecca Yarros",
+        "publishYear": "2023",
+        "price": 62,
+        "rating": 4,
+        "isFavorite": false
+    },
+    {
+        "id": 2,
+        "image": "https://i.ibb.co/N1h5KLS/book2.jpg",
+        "bookTitle": "Two Twisted Crowns",
+        "author": "Rachel Gillig",
+        "publishYear": "2015",
+        "price": 45,
+        "rating": 3,
+        "isFavorite": false
+    },
+    {
+        "id": 3,
+        "image": "https://i.ibb.co/92rM9Gb/book3.jpg",
+        "bookTitle": "The Wager",
+        "author": "David Grann",
+        "publishYear": "2017",
+        "price": 80,
+        "rating": 5,
+        "isFavorite": true
+    },
+    {
+        "id": 4,
+        "image": "https://i.ibb.co/CBX4szB/book4.jpg",
+        "bookTitle": "How to Know a Person",
+        "author": "David Brooks",
+        "publishYear": "2019",
+        "price": 55,
+        "rating": 4,
+        "isFavorite": false
+    },
+    {
+        "id": 5,
+        "image": "https://i.ibb.co/ssG4yBY/book5.jpg",
+        "bookTitle": "No Brainer",
+        "author": "Jeff Kinney",
+        "publishYear": "2023",
+        "price": 75,
+        "rating": 5,
+        "isFavorite": false
+    },
+    {
+        "id": 6,
+        "image": "https://i.ibb.co/QbrB4dQ/book6.jpg",
+        "bookTitle": "Divine Rivals",
+        "author": "Rebecca Ross",
+        "publishYear": "2006",
+        "price": 68,
+        "rating": 4,
+        "isFavorite": false
+    },
+    {
+        "id": 7,
+        "image": "https://i.ibb.co/pJwxvRx/book7.jpg",
+        "bookTitle": "The Great Alone",
+        "author": "Kristin Hannah",
+        "publishYear": "2012",
+        "price": 82,
+        "rating": 5,
+        "isFavorite": true
+    },
+    {
+        "id": 8,
+        "image": "https://i.ibb.co/XYsvzFB/book8.jpg",
+        "bookTitle": "North Woods",
+        "author": "Daniel Mason",
+        "publishYear": "2013",
+        "price": 72,
+        "rating": 4,
+        "isFavorite": false
+    }
+]
